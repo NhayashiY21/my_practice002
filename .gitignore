@@ -66,3 +66,4 @@ application.properties
 
 # ===== Project-specific =====
 HELP.md
+.DS_Store
